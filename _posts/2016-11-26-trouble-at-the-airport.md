@@ -11,7 +11,7 @@ Flying from Amsterdam to Christchurch required us to do two transfers. Sydney, H
 
 During preparation we were focusing on our NZ trip, feeling that the Sydney part would be figured out while we were there. So this morning we left The Hague, heading for the airport. Of course, not without taking our traditional "waiting for the bus"-picture:
 
-![Sanne and I have this picture from every trip we made since living in The Hague](https://www.dropbox.com/s/bochj8opxcdvxnm/Photo%2026-11-2016%2C%2021%2006%2056.jpg)
+![Sanne and I have this picture from every trip we made since living in The Hague](https://dl.dropboxusercontent.com/s/bochj8opxcdvxnm/Photo%2026-11-2016%2C%2021%2006%2056.jpg)
 
 *Did you two arrange a Visa for Australia?* 
 
@@ -25,8 +25,7 @@ I also got my domain names assigned now and changed the DNS records to accommoda
 
 Heading back to the on-board movies. Just watched one from my all time favorite trilogy's: Star Wars! Best. Flight. Ever.
 
-![All Star Wars movies on-board!](https://www.dropbox.com/s/69xk5u3aneqrbqt/Photo%2027-11-2016%2C%2000%2055%2030.jpg)
-
+![All Star Wars movies on-board!](https://dl.dropboxusercontent.com/s/69xk5u3aneqrbqt/Photo%2027-11-2016%2C%2000%2055%2030.jpg)
 
 
 
