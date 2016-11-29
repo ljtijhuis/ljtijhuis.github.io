@@ -14,7 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Lars Tijhuis
-email: ljtijhuis@gmail.com
+email: 
+linkedin: https://nl.linkedin.com/in/larstijhuis
 description: > # this means to ignore newlines until "baseurl:"
     This is my personal blog, sharing posts on my life as an IT guy who loves to nerd around and to travel! I am currently employed at KPMG in the Netherlands, where I focus on cloud, IT infrastructure and architecture, and software (quality) related assignments. I've set-up this blog to get myself motivated to share my work! And of course my holiday stories and pictures as well.. Enjoy!
 baseurl: "" # the subpath of your site, e.g. /blog
